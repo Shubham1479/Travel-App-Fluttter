@@ -1,6 +1,15 @@
-# travel3_app
+# TravelAround
 
 A new Flutter project.
+Used Flutter and Dart
+Also used Cubit / bLoc State Management for the state manangement.
+It has a custom Slider and Navigation panel.
+Used BlocProvider and BlocBuilder for State Update.
+
+
+
+*This project only has frontend and no backend till now*
+*This app is made for UI purposes only*
 
 ## Getting Started
 
